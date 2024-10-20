@@ -1,0 +1,66 @@
+[
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/e/7/f/e7fb5d5fff7dc16810f20bfa4d143165.jpeg",
+        "title": "Aphrodite’s Giant Shorthair",
+        "advantage": ["友好", "适合家庭", "易于训练"],
+        "disadvantage": ["需要陪伴", "可能会调皮"],
+        "price": 1900,
+        "description": "友好的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/b/3/f/b3fa8b47ca438f2117a362c3e7e9d83b.jpeg",
+        "title": "Arabian Mau",
+        "advantage": ["活泼", "聪明", "适应性强"],
+        "disadvantage": ["需要大量运动", "可能会吵闹"],
+        "price": 1600,
+        "description": "活泼的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/c/e/d/ced8c3fce6d42d147380fb56bcaa52bb.jpeg",
+        "title": "Asian",
+        "advantage": ["温和", "友好", "适合家庭"],
+        "disadvantage": ["需要定期梳理", "可能会掉毛"],
+        "price": 1500,
+        "description": "温和的性格，适合家庭生活。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/d/c/d/dcd6ec85e5a0abfefc45a9896e661352.jpeg",
+        "title": "Australian Bombay",
+        "advantage": ["友好", "适合家庭", "易于训练"],
+        "disadvantage": ["需要陪伴", "可能会调皮"],
+        "price": 1700,
+        "description": "友好的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/8/7/9/879117aeb92e66db2e5de45136742412.jpeg",
+        "title": "Australian Mist",
+        "advantage": ["活泼", "聪明", "适应性强"],
+        "disadvantage": ["需要大量运动", "可能会吵闹"],
+        "price": 1800,
+        "description": "活泼的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/7/a/7/7a73268e8de8ff8c6ea688c6a4357efe.jpeg",
+        "title": "Bambino",
+        "advantage": ["温和", "友好", "适合家庭"],
+        "disadvantage": ["需要定期梳理", "可能会掉毛"],
+        "price": 1600,
+        "description": "温和的性格，适合家庭生活。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/cat_images/7/2/d/72d770f2157b3573c15dbc0e12ed57c8.jpg",
+        "title": "Bengal",
+        "advantage": ["活泼", "聪明", "适应性强"],
+        "disadvantage": ["需要大量运动", "可能会吵闹"],
+        "price": 2000,
+        "description": "活泼的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/8/4/6/84647a4d6ab9ee3fcc2b00a10d0974c8.jpeg",
+        "title": "Birman (Sacred Birman)",
+        "advantage": ["温和", "友好", "适合家庭"],
+        "disadvantage": ["需要定期梳理", "可能会掉毛"],
+        "price": 1900,
+        "description": "温和的性格，适合家庭生活。"
+    }
+]

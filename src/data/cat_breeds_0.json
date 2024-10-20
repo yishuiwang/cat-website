@@ -1,0 +1,66 @@
+[
+    {
+        "image": "https://s3.webestudio.ru/topcat/cat_images/5/f/2/5f24e5f811a905f50b389e15aa07ad32.jpg",
+        "title": "Abyssinian",
+        "advantage": ["活泼好动", "聪明", "适应性强"],
+        "disadvantage": ["需要大量运动", "可能会吵闹"],
+        "price": 1200,
+        "description": "活泼的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/9/2/3/9231884dde778ff8b838538fa223aded.jpeg",
+        "title": "American Bobtail Longhair",
+        "advantage": ["友好", "适合家庭", "易于训练"],
+        "disadvantage": ["需要定期梳理", "可能会掉毛"],
+        "price": 1500,
+        "description": "温和的性格，适合家庭生活。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/2/8/9/289c721cceded08e289e7ad4daa4030a.jpeg",
+        "title": "American Bobtails Shorthair",
+        "advantage": ["活泼", "适应性强", "友好"],
+        "disadvantage": ["需要陪伴", "可能会调皮"],
+        "price": 1400,
+        "description": "活泼的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/cat_images/c/b/4/cb49b04ce2224ba6759b890a0372e05d.jpeg",
+        "title": "American Curl Longhair",
+        "advantage": ["独特的耳朵", "友好", "适合家庭"],
+        "disadvantage": ["需要定期梳理", "可能会敏感"],
+        "price": 1600,
+        "description": "独特的外观，性格温和。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/b/3/5/b35be8144ecea6472f77cc498ca75b5d.jpeg",
+        "title": "American Shorthair",
+        "advantage": ["健康", "适应性强", "性格温和"],
+        "disadvantage": ["可能会懒惰", "需要定期运动"],
+        "price": 1300,
+        "description": "经典的家庭猫，性格温和。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/6/5/0/65032d003fc2efceee2be73996bec44a.jpeg",
+        "title": "American Wirehair",
+        "advantage": ["独特的毛发", "友好", "适应性强"],
+        "disadvantage": ["需要定期梳理", "可能会掉毛"],
+        "price": 1700,
+        "description": "独特的毛发，性格友好。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/a/6/a/a6a67d6d8fe7c9e768367f65077bf17e.jpeg",
+        "title": "Anatoli",
+        "advantage": ["活泼", "聪明", "适应性强"],
+        "disadvantage": ["需要陪伴", "可能会吵闹"],
+        "price": 1800,
+        "description": "活泼的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/e/4/3/e4310e7448023172d3e571ccdb14c1de.jpeg",
+        "title": "Aphrodite’s Giant Longhair",
+        "advantage": ["温和", "友好", "适合家庭"],
+        "disadvantage": ["需要定期梳理", "可能会掉毛"],
+        "price": 2000,
+        "description": "温和的性格，适合家庭生活。"
+    }
+]

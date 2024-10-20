@@ -1,0 +1,66 @@
+[
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/b/c/0/bc0b4e7bd330170dd019f8cbe4bc6087.jpeg",
+        "title": "Brazilian Shorthair",
+        "advantage": ["友好", "适应性强", "性格温和"],
+        "disadvantage": ["需要陪伴", "可能会调皮"],
+        "price": 1600,
+        "description": "友好的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/cat_images/5/d/b/5db318b6f6bf9f535c4236632accaef5.jpg",
+        "title": "British Longhair",
+        "advantage": ["温和", "友好", "适合家庭"],
+        "disadvantage": ["需要定期梳理", "可能会掉毛"],
+        "price": 1800,
+        "description": "温和的性格，适合家庭生活。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/cat_images/f/e/c/fecf76d2d27b70dd1c362e8be5e5035f.jpg",
+        "title": "British Shorthair",
+        "advantage": ["健康", "适应性强", "性格温和"],
+        "disadvantage": ["可能会懒惰", "需要定期运动"],
+        "price": 1700,
+        "description": "经典的家庭猫，性格温和。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/cat_images/e/6/8/e688ec37ee2cd03bc071f1b9aa25a5f2.jpg",
+        "title": "Burmese",
+        "advantage": ["活泼", "聪明", "适应性强"],
+        "disadvantage": ["需要大量运动", "可能会吵闹"],
+        "price": 1900,
+        "description": "活泼的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/2/a/f/2af261aa2be215ef0850874ab1282818.jpeg",
+        "title": "Burmilla / Burmilla Shorthair",
+        "advantage": ["友好", "适合家庭", "易于训练"],
+        "disadvantage": ["需要陪伴", "可能会调皮"],
+        "price": 1600,
+        "description": "友好的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/5/5/8/5583d2c642c0598e67af210ef2681f8b.jpeg",
+        "title": "Burmilla Longhair",
+        "advantage": ["温和", "友好", "适合家庭"],
+        "disadvantage": ["需要定期梳理", "可能会掉毛"],
+        "price": 1700,
+        "description": "温和的性格，适合家庭生活。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/e/4/7/e4756699c2ff2ab559ac4e4969e2b743.jpeg",
+        "title": "Californian Spangled",
+        "advantage": ["活泼", "聪明", "适应性强"],
+        "disadvantage": ["需要大量运动", "可能会吵闹"],
+        "price": 2000,
+        "description": "活泼的猫种，适合家庭。"
+    },
+    {
+        "image": "https://s3.webestudio.ru/topcat/breed_article_images/7/3/c/73caec5510f71de3fc5278500c37d847.jpeg",
+        "title": "Ceylon",
+        "advantage": ["温和", "友好", "适合家庭"],
+        "disadvantage": ["需要定期梳理", "可能会掉毛"],
+        "price": 1800,
+        "description": "温和的性格，适合家庭生活。"
+    }
+]
